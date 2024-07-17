@@ -3,6 +3,9 @@
 
 Développé par Titouan Cornille 👨‍💻
 
+![OBF](https://github.com/user-attachments/assets/95e5e496-09c0-4c4f-8fa9-1f5fc4a98df8)
+
+
 ## 📝 Description
 OBF.py est un outil de ligne de commande pour l'obfuscation et la désobfuscation de fichiers. Il offre trois méthodes de chiffrement différentes : XOR, AES, et Fernet. Cet outil est conçu pour sécuriser vos fichiers de manière simple et efficace.
 
